@@ -1,0 +1,13 @@
+table{
+border: 10cm;    
+border-color: brown;
+}
+table img{
+
+    width: 50%;
+    height: 10%;
+}
+table td{
+    text-align: center;
+    width: 10%;
+}

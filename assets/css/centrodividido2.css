@@ -1,0 +1,12 @@
+.opciones{
+    font-size: 20px;
+}
+.lista{
+    position: absolute;
+    background-color: black;
+    color: white;
+    width: 130px;
+    height: 350px;
+    margin-left: 200px;
+    top:18%;
+}
